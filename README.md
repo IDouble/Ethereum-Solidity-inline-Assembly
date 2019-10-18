@@ -1,7 +1,7 @@
 # 🌐 Ethereum Solidity inline Assembly 🔧
 🌐 A Collection of Notes about Solidity inline Assembly 🔧
 
-## 🔧 sumPureAsm 🔧
+## sumPureAsm 🔧
 ```
 pragma solidity ^0.4.16;
 
