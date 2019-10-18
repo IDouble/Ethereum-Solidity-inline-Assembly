@@ -1,6 +1,12 @@
 # 🌐 Ethereum Solidity inline Assembly 🔧
 🌐 A Collection of Notes about Solidity inline Assembly 🔧
 
+##  What is Solidity inline Assembly ❓
+Solidity defines an assembly language that you can use without Solidity and also as “**inline assembly**” **inside Solidity source code**. 
+
+You can interleave Solidity statements with inline assembly in a language close to the one of the virtual machine.
+
+As the **EVM is a stack machine**, it is often hard to address the correct stack slot and provide arguments to opcodes at the correct point on the stack. Solidity’s inline assembly helps you do this, and with other issues that arise when writing manual assembly.
 ## GetCode 🔍
 ```
 pragma solidity ^0.4.0;
