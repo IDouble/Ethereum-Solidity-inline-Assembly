@@ -1,5 +1,5 @@
 # 🌐 Ethereum Solidity inline Assembly 🔧
-🌐 A Collection of Notes about Solidity inline Assembly 🔧
+🌐 A Collection of Notes & Knowledge about Solidity inline Assembly 🔧
 
 ##  What is Solidity inline Assembly ❓
 Solidity defines an assembly language that you can use without Solidity and also as “**inline assembly**” **inside Solidity source code**. 
